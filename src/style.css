@@ -1,0 +1,12 @@
+h1, p {
+  font-family: Lato;
+}
+body{
+  background-color: rgb(100, 31, 31);
+}
+h1{
+  color: rgb(67, 219, 219);
+}
+p{
+  color:aliceblue;
+}
